@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+cache/*
+!cache/.gitkeep
+exp/*
+!exp/.gitkeep
+saves/*
+!saves/.gitkeep
+tmp/*
+!tmp/.gitkeep
